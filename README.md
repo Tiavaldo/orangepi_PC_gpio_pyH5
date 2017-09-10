@@ -1,4 +1,10 @@
-# orangepi_zero_gpio_pyH3
+# orangepi_zero_gpio_pyH5
+
+Working version for orangepi with H5 
+tested on Orange PI PC 2 with AllWinner H5, Ubuntu 16.03.2 LTS
+
+Original Readme:
+
 python control orangepi_zero ext GPIO ALLwinner H3  base on  pyA20 0.2.1
 
 
